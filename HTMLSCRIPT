@@ -1,0 +1,49 @@
+<!Doctype html>
+<html>
+<head>
+    <title>Random Thing</title>
+    <style>
+        body {
+            background: linear-gradient(to bottom, white, black, black, black, black, black, black, white);
+            height: 100vh;
+            margin: 0;
+            color: white;
+        }
+        .header{
+            background: linear-gradient(to bottom, red, black, blue);
+            border-radius: 5px;
+            box-sizing: border-box;
+            text-align: center;
+            color: white;
+            border: 20px black;
+        }
+        .CenterAllign {
+            text-align: center;
+            color: red;
+        }
+        .Paddingeffect {
+            padding: 20px;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Random Place</h1>
+    </div>
+    <div class="CenterAllign">
+        <p>WARNING! IF YOU DONT WANNA OBSERVE PLS LEAVE THIS LINK BECAUSE IS USELESS IF YOU DONT LEAVE AND YOU DONT WANNA OBSERVE SO PLS DONT WASTE TIME.</p>
+    </div>
+    <div class="Paddingeffect">
+        <p style="color: yellow;">Owner's Description</p>
+            <p>This place is made by a young coder who wanna do nothing for like this, and i use other programming language like lua, luau (Roblox Script), Python and HTML. and by the way this place isnt finish please wait for some days i just learned today XD</p>
+            <p>This one is very unnecessary but owners discord username is vengeance2012_ and the developer is of course me (vengeance2012_) and thanks for observing this place by the way.</p>
+
+        <p style="color: yellow;">Link's Description</p>
+            <p>this link is unfinished so pls be patient for link's final look probably finished in a couple days is my first project using HTML btw and im stil expirenting on things so pls think about things before saying anything bad with this link</p>
+            <p>and btw this link is made as a new project for no reason at all just for practicing purposes and education purposes nothing else so pls do not misjudge or misunderstand this place as a place for users entertainment this place is made as a new project for a new developer who just learned today and as observing/information place for people like you </p>
+
+
+    </div>
+</body>
+</html>
